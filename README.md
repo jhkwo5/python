@@ -5,4 +5,4 @@ learning python
 * githubScroll.py - Find user's repository list
 
 ## Daily learning
-* crack.py - Daily learning 
+* Learning.py - Daily learning 
