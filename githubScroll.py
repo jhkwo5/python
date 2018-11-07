@@ -2,9 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
 name = input("Type user ID ")
-
 
 def get_repositories(name):
     source_code = requests.get('https://github.com/' + str(name))
